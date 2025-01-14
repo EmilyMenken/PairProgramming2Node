@@ -1,6 +1,7 @@
 
 //Code Authors: Xalli Bell and Emily Menken
 
+//new comment
 
 // 1. Calculate the sum of all numbers in an array (using a loop)
 
