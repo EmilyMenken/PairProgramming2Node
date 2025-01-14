@@ -1,3 +1,7 @@
+
+//Code Authors: Xalli Bell and Emily Menken
+
+
 // 1. Calculate the sum of all numbers in an array (using a loop)
 
 function sumArray(array) {
