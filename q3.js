@@ -15,5 +15,8 @@ function removeDuplicates(array) {
 }
 
 //testing
-let testArray3 = [1, 2, 3, 4, 5, 1, 2, 3, 4, 5]; // expected res [1, 2, 3, 4, 5]
-console.log(removeDuplicates(testArray3)); //calling removeDuplicates
+let testArray3 = [1, 2, 3, 4, 5, 1, 2, 3, 4, 5]; 
+console.log("Before removeDuplicates: ");
+console.log(testArray3); // expected res [1, 2, 3, 4, 5, 1, 2, 3, 4, 5];
+console.log("After removeDuplicates: ");
+console.log(removeDuplicates(testArray3)); // expected res [1, 2, 3, 4, 5]
